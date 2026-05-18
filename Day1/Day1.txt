@@ -1,0 +1,11 @@
+Variables: A Variables is like a container that stores data (like number,text, values) in your program. 
+There are three types of variables in javaScript: var, let and const.
+
+var: Declares variables with function or global scope and allows re-declaration and updates within the same scope.
+
+let: Declares variables with block scope, allowing updates but not re-declaration within the same block.
+
+const: Declares block scoped variables that cannot be reassigned after their initial assignment.
+
+Hoisting: Hoisting is a JavaScript mechanism where variable and function declaration are moved to the top of their scope before code execution.
+This means you can use variables and function before declaring them.
