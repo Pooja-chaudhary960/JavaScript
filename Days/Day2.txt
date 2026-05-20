@@ -6,4 +6,4 @@ a. Number, String, Boolean, Null, Undefined, Bigint, Symbol
 
 2. Non-Primitive Data Type: The data types that are derived from primitive data types are known as
  non-primitive data types. It is also known as derived data types or reference data type.
- a. Object, Array, Function, Date Object, Regular expression
+ a. Object, Array, Function, Date Object, Regular expression 

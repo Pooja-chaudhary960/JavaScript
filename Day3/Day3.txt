@@ -1,0 +1,16 @@
+Loops: Loops a block of code to run multiple times as long as a given condition is satisfied. 
+Loops continue running until the condition becomes false. 
+They help reduce repition and make programs more efficient and organized.
+
+1. For loop: for(initialization; condition; increment/decrement)
+            {
+                // code to execute
+    
+            }
+
+2. while loop: 
+initialization
+while(condition)
+{
+    increment/decrement;
+}
